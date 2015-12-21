@@ -20,6 +20,7 @@
     <string name="semi_final">Semi Final</string>
     <string name="final_text">Final</string>
     <string name="share_text">Share</string>
+    
     <string name="about">About</string>
     <string name="share">A button that will share the score! </string>
     <string name="title_activity_about" translatable="false">AboutActivity</string>
