@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<appwidget-provider
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:initialLayout="@layout/widget_scores_small"
+    android:minHeight="250sp"
+    android:minWidth="40sp"
+    android:updatePeriodMillis="0" ></appwidget-provider>
